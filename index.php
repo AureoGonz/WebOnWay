@@ -36,8 +36,8 @@
     </nav>
     <main class="container full-height my-4">
         <div class="row">
-            <div class="col-12 col-md-9 text-center mark">
-                <div class="row">
+            <div class="col-12 col-xl-9 text-center mark">
+                <div class="row mt-2">
                     <div class="col-12">
                         <h3>WebOnWay</h3>
                         <small>Ponte On</small>
@@ -54,8 +54,33 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-md-3 side">
-                <p>side</p>
+            <div class="col-12 col-xl-3 side">
+                <div class="row mt-2">
+                    <div class="col-12 side-header">
+                        <span class="text-left">Pregunta</span>
+                    </div>
+                </div>
+                <form class="row mx-2">
+                    <div class="col-6 col-xl-12">
+                        <div class="form-row">
+                            <label for="contacto_nombre" class="col-12 col-form-label">Nombre:</label>
+                            <input type="text" class="col-12 form-control" id="contacto_nombre">
+                        </div>
+                        <div class="form-row">
+                            <label for="contacto_nombre" class="col-12 col-form-label">Correo:</label>
+                            <input type="email" class="col-12 form-control" id="contacto_nombre">
+                        </div>
+                    </div>
+                    <div class="col-6 col-xl-12">
+                        <div class="form-row">
+                            <label for="contacto_nombre" class="col-12 col-form-label">Pregunta:</label>
+                            <textarea class="form-control" id="" rows="5"></textarea>
+                        </div>
+                        <div class="form-row my-2 justify-content-end">
+                            <button class="form-group btn btn-primary">Enviar</button>
+                        </div>
+                    </div>
+                </form>
             </div>
         </div>
     </main>
