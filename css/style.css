@@ -6,3 +6,13 @@ body {
 .full-height {
     min-height: 100%;
 }
+
+.mark {
+    border-style: solid;
+    border-width: 2px;
+}
+
+.side {
+    border-style: solid;
+    border-width: 2px;
+}

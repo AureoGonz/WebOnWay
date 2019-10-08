@@ -36,26 +36,38 @@
     </nav>
     <main class="container full-height my-4">
         <div class="row">
-            <div class="col-12 col-md-8">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate illo aliquid optio ipsam magni porro qui dolorum aut corrupti incidunt unde impedit, commodi consequuntur voluptatum repudiandae accusantium repellat sequi neque!</div>
-        </div>
-        <div class="row">
-            <div class="col-12 col-md-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia alias doloremque soluta? Eveniet, nobis assumenda? Distinctio, quos. Voluptatem debitis repellat commodi explicabo nemo, veniam minus provident ipsam odit ratione labore?</div>
-        </div>
-        <div class="row">
-            <div class="col-12 col-md-8">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe, iure atque iusto totam aliquam soluta minima odio perspiciatis dolores molestiae praesentium quod debitis facere, corrupti in eaque eligendi ipsa natus!</div>
-        </div>
-        <div class="row">
-            <div class="col-12 col-md-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa saepe suscipit, aliquam vero ipsum commodi nam facilis, assumenda quia consectetur eligendi? Aspernatur sapiente nulla officiis placeat maxime. Saepe, omnis expedita.</div>
-        </div>
-        <div class="row">
-            <div class="col-12 col-md-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti nulla enim incidunt nihil cum tenetur dolor ducimus ut itaque, est quasi expedita excepturi obcaecati ad quis aliquam iste, magnam atque?</div>
+            <div class="col-12 col-md-9 text-center mark">
+                <div class="row">
+                    <div class="col-12">
+                        <h3>WebOnWay</h3>
+                        <small>Ponte On</small>
+                    </div>
+                </div>
+                <div class="row my-3">
+                    <div class="col-12 col-md-5">
+                        <img src="img/desarrolloWEB.jpg" width="100%">
+                    </div>
+                    <div class="col-12 col-md-7">
+                        <p class="text-justify">
+                            Integra tu negocio al mundo web, para tener una mayor ventaja competitiva.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-3 side">
+                <p>side</p>
+            </div>
         </div>
     </main>
-    <footer class="footer mt-auto bg-dark pt-3 pb-2">
+    <footer class="footer mt-2 bg-dark pt-3 pb-2">
         <div class="container">
             <div class="row justify-content-between">
-                <div class="col-12 col-md-6">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis quibusdam, vero quia incidunt doloremque exercitationem et. Est eos, minima sed accusantium sint officiis explicabo, totam laborum, hic ratione veniam eaque!</div>
-                <div class="col-12 col-md-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo illum est a placeat deserunt iste aspernatur rerum delectus. Esse suscipit veritatis beatae aliquam amet quod recusandae nulla saepe deleniti expedita?</div>
+                <div class="col-12 col-md-6">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis
+                    quibusdam, vero quia incidunt doloremque exercitationem et. Est eos, minima sed accusantium sint
+                    officiis explicabo, totam laborum, hic ratione veniam eaque!</div>
+                <div class="col-12 col-md-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo illum est a
+                    placeat deserunt iste aspernatur rerum delectus. Esse suscipit veritatis beatae aliquam amet quod
+                    recusandae nulla saepe deleniti expedita?</div>
             </div>
         </div>
     </footer>
