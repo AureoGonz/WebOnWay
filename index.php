@@ -7,6 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="shortcut icon" type="image/png" href="img/wow.png" />
     <title>WOW</title>
 </head>
 
@@ -35,15 +36,15 @@
         </div>
     </nav>
     <main class="container full-height my-4">
-        <div class="row">
-            <div class="col-12 col-xl-9 text-center mark">
-                <div class="row mt-2">
+        <div class="row justify-content-between">
+            <div class="col-12 col-xl-8 mb-2 text-center">
+                <div class="row mt-2 shadow-none">
                     <div class="col-12">
                         <h3>WebOnWay</h3>
                         <small>Ponte On</small>
                     </div>
                 </div>
-                <div class="row my-3">
+                <div class="row py-3 my-3 shadow-sm">
                     <div class="col-12 col-md-5">
                         <img src="img/desarrolloWEB.jpg" width="100%">
                     </div>
@@ -54,9 +55,9 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-xl-3 side">
+            <div class="col-12 mt-2 col-xl-3 shadow-sm">
                 <div class="row mt-2">
-                    <div class="col-12 side-header">
+                    <div class="col-12 side-header rounded">
                         <span class="text-left">Pregunta</span>
                     </div>
                 </div>
