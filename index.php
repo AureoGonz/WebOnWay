@@ -7,14 +7,15 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <link rel="shortcut icon" type="image/png" href="img/wow.png" />
+    <link rel="shortcut icon" type="image/png" href="img/woww.png"/>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-icons/3.0.1/iconfont/material-icons.min.css">
     <title>WOW</title>
 </head>
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
         <a class="navbar-brand" href="#">
-            <img src="img/wow.png" width="60" height="30" class="d-inline-block align-top" alt="">
+            <img src="img/woww.png" width="60" height="30" class="d-inline-block align-top" alt="">
             WebOnWay
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01"
@@ -62,7 +63,7 @@
                     </div>
                 </div>
                 <form class="row mx-2">
-                    <div class="col-6 col-xl-12">
+                    <div class="col-12 col-md-6 col-xl-12">
                         <div class="form-row">
                             <label for="contacto_nombre" class="col-12 col-form-label">Nombre:</label>
                             <input type="text" class="col-12 form-control" id="contacto_nombre">
@@ -72,7 +73,7 @@
                             <input type="email" class="col-12 form-control" id="contacto_nombre">
                         </div>
                     </div>
-                    <div class="col-6 col-xl-12">
+                    <div class="col-12 col-md-6 col-xl-12">
                         <div class="form-row">
                             <label for="contacto_nombre" class="col-12 col-form-label">Pregunta:</label>
                             <textarea class="form-control" id="" rows="5"></textarea>
