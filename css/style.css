@@ -1,6 +1,8 @@
 html,
 body {
     height: 100%;
+    background-image: url("../img/bg_gral.jpg");
+    background-repeat: repeat-x;
 }
 
 .full-height {
@@ -27,11 +29,11 @@ img {
 }
 
 .carrusel {
-    height: 500px;
+    height: 300px;
 }
 
 .image-carrusel {
-    height: 500px;
+    height: 300px;
     width: inherit;
 }
 
@@ -43,5 +45,12 @@ img {
     .image-tarjeta {
         height: 180px;
         width: fit-content;
+    }
+    .carrusel {
+        height: 500px;
+    }
+    .image-carrusel {
+        height: 500px;
+        width: inherit;
     }
 }

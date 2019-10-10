@@ -48,28 +48,28 @@
             <div class="col-12 mb-2 pr-3 text-center shadow-sm">
                 <!-- corrusel -->
                 <div class="carrusel my-3">
-                    <div id="servicios" class="carousel slide " data-ride="carousel">
+                    <div id="servicios" class="carousel slide" data-ride="carousel">
                         <ol class="carousel-indicators">
                             <li data-target="#servicios" data-slide-to="0" class="active"></li>
                             <li data-target="#servicios" data-slide-to="1"></li>
                             <li data-target="#servicios" data-slide-to="2"></li>
                         </ol>
                         <div class="carousel-inner">
-                            <div class="carousel-item active">
+                            <div class="carousel-item my-2 my-md-0 active">
                                 <img src="img/dashboard.jpg" class="image-carrusel" alt="...">
                                 <div class="carousel-caption text-white-50 bg-dark">
                                     <h5>Administra tu negocio</h5>
                                     <p>Integra un dashboard que ayude y facilite tus tareas</p>
                                 </div>
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item my-2 my-md-0">
                                 <img src="img/desarrollo.png" class="image-carrusel" alt="...">
                                 <div class="carousel-caption text-white-50 bg-dark">
                                     <h5>Pagina Web</h5>
                                     <p>Date a conocer de una mejor manera y personaliza tu contenido</p>
                                 </div>
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item my-2 my-md-0">
                                 <img src="img/ventas.jpg" class="image-carrusel" alt="...">
                                 <div class="carousel-caption text-white-50 bg-dark">
                                     <h5>Compras</h5>
