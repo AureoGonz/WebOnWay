@@ -25,10 +25,10 @@
         <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
             <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Inicio<span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="">Inicio<span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Servicio</a>
+                    <a class="nav-link" href="servicios.php">Servicio</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Contacto</a>
@@ -89,9 +89,14 @@
     <footer class="footer mt-2 bg-dark pt-3 pb-2">
         <div class="container">
             <div class="row justify-content-between">
-                <div class="col-12 col-md-6">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis
-                    quibusdam, vero quia incidunt doloremque exercitationem et. Est eos, minima sed accusantium sint
-                    officiis explicabo, totam laborum, hic ratione veniam eaque!</div>
+                <div class="col-12 col-md-6">
+                    <h6>Contactanos</h6>
+                    <div>
+                        <ul>
+                            <i></i>
+                        </ul>
+                    </div>
+                </div>
                 <div class="col-12 col-md-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo illum est a
                     placeat deserunt iste aspernatur rerum delectus. Esse suscipit veritatis beatae aliquam amet quod
                     recusandae nulla saepe deleniti expedita?</div>

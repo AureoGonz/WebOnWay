@@ -25,3 +25,23 @@ body {
 img {
     border-radius: 5px;
 }
+
+.carrusel {
+    height: 500px;
+}
+
+.image-carrusel {
+    height: 500px;
+    width: inherit;
+}
+
+.image-tarjeta {
+    width: fit-content;
+}
+
+@media screen and (min-width: 991.98px) {
+    .image-tarjeta {
+        height: 180px;
+        width: fit-content;
+    }
+}
