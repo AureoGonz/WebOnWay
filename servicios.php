@@ -10,10 +10,18 @@
     <link rel="shortcut icon" type="image/png" href="img/woww.png" />
     <link rel="stylesheet" type="text/css"
         href="https://cdnjs.cloudflare.com/ajax/libs/material-design-icons/3.0.1/iconfont/material-icons.min.css">
+    <script src="https://kit.fontawesome.com/8613addc86.js" crossorigin="anonymous"></script>
     <title>WOW</title>
 </head>
 
 <body>
+    <div class="redes">
+        <ul>
+            <li><a href="" class="icon-fb"><i class="fab fa-facebook-square"></i></a></li>
+            <li><a href="" class="icon-tw"><i class="fab fa-twitter"></i></a></li>
+            <li><a href="" class="icon-ig"><i class="fab fa-instagram"></i></a></li>
+        </ul>
+    </div>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
         <a class="navbar-brand" href="#">
             <img src="img/woww.png" width="60" height="30" class="d-inline-block align-top" alt="">
@@ -63,7 +71,7 @@
                                 </div>
                             </div>
                             <div class="carousel-item my-2 my-md-0">
-                                <img src="img/desarrollo.png" class="image-carrusel" alt="...">
+                                <img src="img/webdev.jpg" class="image-carrusel" alt="...">
                                 <div class="carousel-caption text-white-50 bg-dark">
                                     <h5>Pagina Web</h5>
                                     <p>Date a conocer de una mejor manera y personaliza tu contenido</p>
@@ -99,34 +107,31 @@
         <div class="row justify-content-between my-5">
             <div class="col-12 col-lg-4 mb-2 text-center shadow-sm">
                 <div class="card">
-                    <img src="img/dashboard.jpg" class="card-img-top image-tarjeta" alt="...">
+                    <img src="img/freelancer.png" class="card-img-top image-tarjeta" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Freelancers</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <p class="card-text">No estás sólo, cuenta con nosotros</p>
+                        <a href="#" class="btn btn-primary">Se curioso</a>
                     </div>
                 </div>
             </div>
             <div class="col-12 col-lg-4 mb-2 text-center shadow-sm">
                 <div class="card">
-                    <img src="img/desarrollo.png" class="card-img-top image-tarjeta" alt="...">
+                    <img src="img/pequenaempresa.jpg" class="card-img-top image-tarjeta" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Pequeñas Empresas</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <p class="card-text">Pequeña, pero de gran corazón</p>
+                        <a href="#" class="btn btn-primary">Algo más</a>
                     </div>
                 </div>
             </div>
             <div class="col-12 col-lg-4 mb-2 text-center shadow-sm">
                 <div class="card">
-                    <img src="img/ventas.jpg" class="card-img-top image-tarjeta" alt="...">
+                    <img src="img/medianaempresa.jpg" class="card-img-top image-tarjeta" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Medianas empresas</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <p class="card-text">Perfecta para un mundo grande y repartido</p>
+                        <a href="#" class="btn btn-primary">Un empujonsito</a>
                     </div>
                 </div>
             </div>
@@ -134,13 +139,10 @@
     </main>
     <footer class="footer mt-2 bg-dark pt-3 pb-2">
         <div class="container">
-            <div class="row justify-content-between">
-                <div class="col-12 col-md-6">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis
-                    quibusdam, vero quia incidunt doloremque exercitationem et. Est eos, minima sed accusantium sint
-                    officiis explicabo, totam laborum, hic ratione veniam eaque!</div>
-                <div class="col-12 col-md-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo illum est a
-                    placeat deserunt iste aspernatur rerum delectus. Esse suscipit veritatis beatae aliquam amet quod
-                    recusandae nulla saepe deleniti expedita?</div>
+            <div class="row justify-content-center">
+                <div class="col-4 text-center">
+                    <strong>2019 WebOnWay</strong>
+                </div>
             </div>
         </div>
     </footer>

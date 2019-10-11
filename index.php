@@ -7,12 +7,21 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <link rel="shortcut icon" type="image/png" href="img/woww.png"/>
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-icons/3.0.1/iconfont/material-icons.min.css">
+    <link rel="shortcut icon" type="image/png" href="img/woww.png" />
+    <link rel="stylesheet" type="text/css"
+        href="https://cdnjs.cloudflare.com/ajax/libs/material-design-icons/3.0.1/iconfont/material-icons.min.css">
+    <script src="https://kit.fontawesome.com/8613addc86.js" crossorigin="anonymous"></script>
     <title>WOW</title>
 </head>
 
 <body>
+    <div class="redes">
+        <ul>
+            <li><a href="" class="icon-fb"><i class="fab fa-facebook-square"></i></a></li>
+            <li><a href="" class="icon-tw"><i class="fab fa-twitter"></i></a></li>
+            <li><a href="" class="icon-ig"><i class="fab fa-instagram"></i></a></li>
+        </ul>
+    </div>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
         <a class="navbar-brand" href="#">
             <img src="img/woww.png" width="60" height="30" class="d-inline-block align-top" alt="">
@@ -37,15 +46,15 @@
         </div>
     </nav>
     <main class="container full-height my-4">
-        <div class="row justify-content-between">
+        <div class="row justify-content-between ">
             <div class="col-12 col-xl-8 mb-2 text-center">
-                <div class="row mt-2 shadow-none">
+                <div class="row mt-2 shadow-none text-light">
                     <div class="col-12">
                         <h3>WebOnWay</h3>
                         <small>Ponte On</small>
                     </div>
                 </div>
-                <div class="row py-3 my-3 shadow-sm">
+                <div class="row py-3 my-3 shadow-sm bg-dark text-light">
                     <div class="col-12 col-md-5">
                         <img src="img/desarrolloWEB.jpg" width="100%">
                     </div>
@@ -56,13 +65,13 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 mt-2 col-xl-3 shadow-sm">
+            <div class="col-12 mt-2 col-xl-3 mt-3 shadow-sm">
                 <div class="row mt-2">
                     <div class="col-12 side-header rounded">
-                        <span class="text-left">Pregunta</span>
+                        <h4 class="text-left">¿En qué te podemos ayudar?</h4>
                     </div>
                 </div>
-                <form class="row mx-2">
+                <form class="row mx-2 bg-dark mt-4">
                     <div class="col-12 col-md-6 col-xl-12">
                         <div class="form-row">
                             <label for="contacto_nombre" class="col-12 col-form-label">Nombre:</label>
@@ -88,18 +97,10 @@
     </main>
     <footer class="footer mt-2 bg-dark pt-3 pb-2">
         <div class="container">
-            <div class="row justify-content-between">
-                <div class="col-12 col-md-6">
-                    <h6>Contactanos</h6>
-                    <div>
-                        <ul>
-                            <i></i>
-                        </ul>
-                    </div>
+            <div class="row justify-content-center">
+                <div class="col-4 text-center">
+                    <strong>2019 WebOnWay</strong>
                 </div>
-                <div class="col-12 col-md-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo illum est a
-                    placeat deserunt iste aspernatur rerum delectus. Esse suscipit veritatis beatae aliquam amet quod
-                    recusandae nulla saepe deleniti expedita?</div>
             </div>
         </div>
     </footer>
