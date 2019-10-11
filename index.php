@@ -71,7 +71,7 @@
                         <h4 class="text-left">¿En qué te podemos ayudar?</h4>
                     </div>
                 </div>
-                <form class="row mx-2 bg-dark mt-4">
+                <form class="row mx-2 text-light rounded bg-dark mt-4">
                     <div class="col-12 col-md-6 col-xl-12">
                         <div class="form-row">
                             <label for="contacto_nombre" class="col-12 col-form-label">Nombre:</label>
