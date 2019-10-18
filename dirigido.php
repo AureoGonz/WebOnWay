@@ -52,9 +52,9 @@
                 <p class="pt-3 pl-5">Una gran idea, una gran persona</p>
             </div>
         </div>
-        <div class="row justify-content-between my-3 bg-freelancer">
-            <div class="col-12 pr-3 text-center shadow-sm px-5">
-                <p class="text-break text-justify bg-opac py-5 px-5">
+        <div class="row justify-content-between mt-3 bg-freelancer">
+            <div class="col-12 text-center shadow-lg px-5">
+                <p class="text-break text-justify bg-opac mt-4 py-5 px-5">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium qui molestias excepturi, cum
                     amet
                     ut omnis nihil ad eveniet voluptas, sit maxime impedit delectus ipsam eaque quidem possimus unde
@@ -136,9 +136,9 @@
                 <p class="pt-3 pl-5">Pero de gran corazon</p>
             </div>
         </div>
-        <div class="row justify-content-between my-3 bg-empresa-pe">
-            <div class="col-12 pr-3 text-center shadow-sm px-5">
-                <p class="text-break text-justify bg-opac py-5 px-5">
+        <div class="row justify-content-between mt-3 bg-empresa-pe">
+            <div class="col-12 text-center shadow-lg px-5">
+                <p class="text-break text-justify bg-opac mt-4 py-5 px-5">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium qui molestias excepturi, cum
                     amet
                     ut omnis nihil ad eveniet voluptas, sit maxime impedit delectus ipsam eaque quidem possimus unde
@@ -220,9 +220,9 @@
                 <p class="pt-3 pl-5">El impulsor de la sociedad</p>
             </div>
         </div>
-        <div class="row justify-content-between my-3 bg-empresa-me">
-            <div class="col-12 pr-3 text-center shadow-sm px-5">
-                <p class="text-break text-justify bg-opac py-5 px-5">
+        <div class="row justify-content-between mt-3 bg-empresa-me">
+            <div class="col-12 text-center shadow-lg px-5">
+                <p class="text-break text-justify bg-opac mt-4 py-5 px-5">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium qui molestias excepturi, cum
                     amet
                     ut omnis nihil ad eveniet voluptas, sit maxime impedit delectus ipsam eaque quidem possimus unde

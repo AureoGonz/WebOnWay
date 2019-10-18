@@ -48,8 +48,10 @@
     <main class="container full-height my-3">
         <div class="row mt-5">
             <div class="col-12 p-2 rounded-top text-light bg-dark">
-                <h1 class="pl-2 pt-2">Las mejores ideas</h1>
-                <p class="pt-3 pl-5">mejora ante tu competencia</p>
+                <div class="row">
+                    <h1 class="col-12 pl-5 pt-2">Las mejores ideas</h1>
+                    <p class="col-12 pt-3 pr-5 text-right">mejora ante tu competencia</p>
+                </div>
             </div>
         </div>
         <div class="row justify-content-between my-3">
@@ -100,8 +102,10 @@
         </div>
         <div class="row mt-5">
             <div class="col-12 p-2 rounded-top text-light bg-dark">
-                <h1 class="pl-2 pt-2">Dirigido principalmente</h1>
-                <p class="pt-3 pl-5">Nacemos para apoyar al futuro y al progreso</p>
+                <div class="row">
+                    <h1 class="col-12 pl-5 pt-2">Dirigido principalmente a:</h1>
+                    <p class="col-12 pt-3 pr-5 text-right">Nacemos para apoyar al futuro y al progreso</p>
+                </div>
             </div>
         </div>
         <div class="row justify-content-between my-5">
