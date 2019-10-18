@@ -106,3 +106,33 @@ img {
     width: 15px;
     height: 15px;
 }
+
+.bg-freelancer {
+    background-image: url("../img/freelancer.png");
+    background-position-y: 1rem;
+    background-size: 100% 75%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.bg-empresa-pe {
+    background-image: url("../img/pequenaempresa.jpg");
+    background-position-y: 1rem;
+    background-size: 100% 75%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.bg-empresa-me {
+    background-image: url("../img/medianaempresa.jpg");
+    background-position-y: 1rem;
+    background-size: 100% 75%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.bg-opac {
+    background-color: white;
+    opacity: 0.9;
+    color: black;
+}

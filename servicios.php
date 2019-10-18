@@ -111,7 +111,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Freelancers</h5>
                         <p class="card-text">No estás sólo, cuenta con nosotros</p>
-                        <a href="#" class="btn btn-primary">Se curioso</a>
+                        <a href="dirigido.php#freelancer" class="btn btn-primary">Se curioso</a>
                     </div>
                 </div>
             </div>
@@ -121,7 +121,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Pequeñas Empresas</h5>
                         <p class="card-text">Pequeña, pero de gran corazón</p>
-                        <a href="#" class="btn btn-primary">Algo más</a>
+                        <a href="dirigido.php#empresa-pe" class="btn btn-primary">Algo más</a>
                     </div>
                 </div>
             </div>
@@ -131,7 +131,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Medianas empresas</h5>
                         <p class="card-text">Perfecta para un mundo grande y repartido</p>
-                        <a href="#" class="btn btn-primary">Un empujonsito</a>
+                        <a href="dirigido.php#empresa-me" class="btn btn-primary">Un empujonsito</a>
                     </div>
                 </div>
             </div>
