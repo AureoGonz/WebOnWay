@@ -22,8 +22,8 @@
             <li><a href="" class="icon-ig"><i class="fab fa-instagram"></i></a></li>
         </ul>
     </div>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-nav-wow">
+        <a class="navbar-brand" href="index.php">
             <img src="img/woww.png" width="60" height="30" class="d-inline-block align-top" alt="">
             WebOnWay
         </a>
@@ -34,26 +34,23 @@
         <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
             <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link" href="index.php">Inicio</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link" href="servicios.php">Servicio<span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contacto</a>
+                    <a class="nav-link" href="contacto.php">Contacto</a>
                 </li>
             </ul>
         </div>
     </nav>
-    <main class="container full-height my-3">
-        <div class="row mt-5" id="freelancer">
-            <div class="col-12 p-2 rounded-top text-light bg-dark">
+    <main class="container full-height mb-3">
+        <div class="row mt-3 bg-h-wow" id="freelancer">
+            <div class="col-12 p-2 rounded-top">
                 <h1 class="pl-2 pt-2">Freelancer</h1>
                 <p class="pt-3 pl-5">Una gran idea, una gran persona</p>
             </div>
         </div>
-        <div class="row justify-content-between mt-3 bg-freelancer">
-            <div class="col-12 text-center shadow-lg px-5">
+        <div class="row justify-content-between bg-freelancer">
+            <div class="col-12 text-center px-5">
                 <p class="text-break text-justify bg-opac mt-4 py-5 px-5">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium qui molestias excepturi, cum
                     amet
@@ -130,14 +127,14 @@
                 </p>
             </div>
         </div>
-        <div class="row mt-5" id="empresa-pe">
-            <div class="col-12 p-2 rounded-top text-light bg-dark">
+        <div class="row mt-5 bg-h-wow" id="empresa-pe">
+            <div class="col-12 p-2 rounded-top">
                 <h1 class="pl-2 pt-2">Empresas Pequeñas</h1>
                 <p class="pt-3 pl-5">Pero de gran corazon</p>
             </div>
         </div>
-        <div class="row justify-content-between mt-3 bg-empresa-pe">
-            <div class="col-12 text-center shadow-lg px-5">
+        <div class="row justify-content-between bg-empresa-pe">
+            <div class="col-12 text-center px-5">
                 <p class="text-break text-justify bg-opac mt-4 py-5 px-5">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium qui molestias excepturi, cum
                     amet
@@ -214,14 +211,14 @@
                 </p>
             </div>
         </div>
-        <div class="row mt-5" id="empresa-me">
-            <div class="col-12 p-2 rounded-top text-light bg-dark">
+        <div class="row mt-5 bg-h-wow" id="empresa-me">
+            <div class="col-12 p-2 rounded-top">
                 <h1 class="pl-2 pt-2">Empresas Medianas</h1>
                 <p class="pt-3 pl-5">El impulsor de la sociedad</p>
             </div>
         </div>
-        <div class="row justify-content-between mt-3 bg-empresa-me">
-            <div class="col-12 text-center shadow-lg px-5">
+        <div class="row justify-content-between bg-empresa-me">
+            <div class="col-12 text-center px-5">
                 <p class="text-break text-justify bg-opac mt-4 py-5 px-5">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium qui molestias excepturi, cum
                     amet
@@ -299,12 +296,22 @@
             </div>
         </div>
     </main>
-    <footer class="footer mt-2 bg-dark pt-3 pb-2">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-4 text-center">
-                    <strong>2019 WebOnWay</strong>
-                </div>
+    <footer class="footer bg-foot-wow bg-dark pt-3 pb-2 container-fluid">
+        <div class="row justify-content-start py-2">
+            <div class="col-5 redes-footer">
+                <ul>
+                    <li class="pb-2"><a href="" class="icon-fb"><i class="fab fa-facebook-square"></i><span>
+                                WebOnWay</span></a></li>
+                    <li class="pb-2"><a href="" class="icon-tw"><i class="fab fa-twitter"></i><span>
+                                @webOnWay</span></a></li>
+                    <li class="pb-2"><a href="" class="icon-ig"><i class="fab fa-instagram"></i><span>
+                                @web_OnWay</span></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-4 text-center">
+                <strong>2019 WebOnWay</strong>
             </div>
         </div>
     </footer>

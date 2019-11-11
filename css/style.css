@@ -2,10 +2,23 @@
 html,
 body {
     height: 100%;
-    background-image: url("../img/bg_gral.jpg");
-    background-size: 100% 75%;
+    background-image: linear-gradient(to bottom right, #919191, white, white, white, white);
+    background-size: 100% 100%;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+}
+
+.bg-nav-wow {
+    background-image: linear-gradient(to bottom right, #191919, black, black, black, black, #292929);
+}
+
+.bg-foot-wow {
+    background-image: linear-gradient(-90deg, #191919, black, black, black, black, #292929);
+}
+
+.bg-h-wow,
+.btn-wow {
+    background-image: linear-gradient(#191919, black, black, black, #292929);
+    color: #fff;
 }
 
 .full-height {
@@ -15,16 +28,6 @@ body {
 .mark {
     border-style: solid;
     border-width: 2px;
-}
-
-.side {
-    border-style: solid;
-    border-width: 2px;
-}
-
-.side-header {
-    background: #343a40;
-    color: #FFFFFF;
 }
 
 img {
@@ -58,19 +61,30 @@ img {
     }
 }
 
+@media screen and (max-width: 768px) {
+    .redes {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .redes-footer {
+        display: none;
+    }
+}
+
 .redes {
     position: fixed;
-    left: 0;
+    right: 0;
     top: 300px;
     z-index: 2000;
-    width: 15rem;
     border-style: solid 2px;
     border: 2px;
 }
 
 .redes ul {
     list-style: none;
-    padding-left: 0px;
+    padding-right: 0px;
 }
 
 .redes ul li a {
@@ -85,6 +99,22 @@ img {
     transition: all 500ms ease;
 }
 
+.redes-footer ul {
+    list-style-type: none;
+}
+
+.redes-footer ul li .icon-fb {
+    color: #3b5998
+}
+
+.redes-footer ul li .icon-tw {
+    color: #00abf0
+}
+
+.redes-footer ul li .icon-ig {
+    color: #ae181f
+}
+
 .redes ul li .icon-fb {
     background: #3b5998
 }
@@ -97,10 +127,11 @@ img {
     background: #ae181f
 }
 
-.redes ul li a:hover {
+
+/* .redes ul li a:hover {
     background: #000;
-    padding: 10px 30px;
-}
+    padding: 10px 15px 10px 30px;
+} */
 
 .fab {
     width: 15px;

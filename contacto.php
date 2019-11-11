@@ -23,7 +23,7 @@
         </ul>
     </div>
     <nav class="navbar navbar-expand-lg navbar-dark bg-nav-wow shadow-lg sticky-top">
-        <a class="navbar-brand active" href="">
+        <a class="navbar-brand" href="index.php">
             <img src="img/woww.png" width="60" height="30" class="d-inline-block align-top" alt="">
             WebOnWay
         </a>
@@ -36,8 +36,8 @@
                 <li class="nav-item">
                     <a class="nav-link" href="servicios.php">Servicio</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="contacto.php">Contacto</a>
+                <li class="nav-item active">
+                    <a class="nav-link" href="">Contacto</a>
                 </li>
             </ul>
         </div>
@@ -92,13 +92,16 @@
             </div>
         </div>
     </main>
-    <footer class="footer mt-2 bg-foot-wow py-3 container-fluid">
+    <footer class="footer mt-2 bg-foot-wow bg-dark pt-3 pb-2 container-fluid">
         <div class="row justify-content-start py-2">
             <div class="col-5 redes-footer">
                 <ul>
-                    <li class="pb-2"><a href="" class="icon-fb"><i class="fab fa-facebook-square"></i><span>  WebOnWay</span></a></li>
-                    <li class="pb-2"><a href="" class="icon-tw"><i class="fab fa-twitter"></i><span>  @webOnWay</span></a></li>
-                    <li class="pb-2"><a href="" class="icon-ig"><i class="fab fa-instagram"></i><span>  @web_OnWay</span></a></li>
+                    <li class="pb-2"><a href="" class="icon-fb"><i class="fab fa-facebook-square"></i><span>
+                                WebOnWay</span></a></li>
+                    <li class="pb-2"><a href="" class="icon-tw"><i class="fab fa-twitter"></i><span>
+                                @webOnWay</span></a></li>
+                    <li class="pb-2"><a href="" class="icon-ig"><i class="fab fa-instagram"></i><span>
+                                @web_OnWay</span></a></li>
                 </ul>
             </div>
         </div>
